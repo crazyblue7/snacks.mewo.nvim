@@ -1,3 +1,5 @@
+# WARNING:
+This is not the original snacks.nvim!!! it is a fork!!!!! go to [the original snacks.nvim](https://github.com/folke/snacks.nvim/)
 # 🍿 `snacks.nvim`
 
 A collection of small QoL plugins for Neovim.
@@ -19,7 +21,7 @@ A collection of small QoL plugins for Neovim.
 | [git](https://github.com/folke/snacks.nvim/blob/main/docs/git.md) | Git utilities |  |
 | [gitbrowse](https://github.com/folke/snacks.nvim/blob/main/docs/gitbrowse.md) | Open the current file, branch, commit, or repo in a browser (e.g. GitHub, GitLab, Bitbucket) |  |
 | [image](https://github.com/folke/snacks.nvim/blob/main/docs/image.md) | Image viewer using Kitty Graphics Protocol, supported by `kitty`, `wezterm` and `ghostty` | ‼️ |
-| [indent](https://github.com/folke/snacks.nvim/blob/main/docs/indent.md) | Indent guides and scopes |  |
+| [indent](https://github.com/crazyblue7/snacks.mewo.nvim/blob/main/docs/indent.md) | Indent guides and scopes |  |
 | [input](https://github.com/folke/snacks.nvim/blob/main/docs/input.md) | Better `vim.ui.input` | ‼️ |
 | [keymap](https://github.com/folke/snacks.nvim/blob/main/docs/keymap.md) | Better `vim.keymap` with support for filetypes and LSP clients |  |
 | [layout](https://github.com/folke/snacks.nvim/blob/main/docs/layout.md) | Window layouts |  |
